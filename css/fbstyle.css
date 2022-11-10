@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: #f0f2f5;
+}
+
+.part1 {
+    position: relative;
+    top: 175px;
+    left: 150px;
+}
+
+
+.left {
+    font-size: 24px;
+    line-height: 28px;
+    width: auto;
+    font-weight: normal;
+    color: #1c1e21;
+    position: relative;
+    left: 30px;
+    top: -10px;
+}
+
+.part2 {
+   position: absolute;
+   right: 220px;
+   width: 396px;
+   height: 340px;
+   padding-top: 10px;
+   padding-bottom: 24px;
+   background-color: #fff;
+   border-radius: 8px;
+   box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+   box-sizing: border-box;
+   color: #1c1e21;
+   direction: ltr;
+   line-height: 1.34;
+}
+
+input {
+    height: 22px;
+    line-height: 16px;
+    border: 1px solid #dddfe2;
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+    border-radius: 6px;
+    vertical-align: middle;
+    color: #1d2129;
+    display: inline-block;
+    margin: 6px 10px;
+    position: relative;
+    left: 6px;
+}
+
+.p2 {
+    position: relative;
+    top: 365px;
+    left: 800px;
+}
+.b1 {
+    position: absolute;
+    left: 16px;
+    width: 364px;
+    padding: 0 16px;
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    line-height: 48px;
+    font-size: 20px;
+    cursor: pointer;
+    color: #fff;
+    font-weight: bold;
+    display:inline-block;
+    margin-top: 10px;
+}
+
+a {
+    position: relative;
+    top: 50px;
+    color: #1877f2;
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+    text-decoration: none;
+    left: 137px;
+    line-height: 1.34;
+    direction: ltr;
+}
+
+.b2 {
+    position: relative;
+    top: 40px;
+    left: 90px;
+    background-color: #42b72a;
+    border: none;
+    border-radius: 6px;
+    line-height: 48px;
+    font-size: 17px;
+    cursor: pointer;
+    color: #fff;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 10px;
+    padding: 0 16px;
+    width: 200px;
+    height: 48px;
+}
+
+.border {
+    align-items: center;
+    border-bottom: 1px solid #dadde1;
+    display: flex;
+    margin: 20px 16px;
+    text-align: center;
+    font-size: 12px;
+    background: #fff;
+    color: #1c1e21;
+    direction: ltr;
+    line-height: 1.34;
+    position: relative;
+    top: 50px;
+}
